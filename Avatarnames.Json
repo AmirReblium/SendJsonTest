@@ -1,3 +1,8 @@
 {
-"AvatarNames" : ["Amir", "Daan", "Steve"]
+	"Blendshapes": [
+		{
+			"Skinny": "1",
+			"test": "0"
+		}
+	]
 }
